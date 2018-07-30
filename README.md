@@ -20,4 +20,5 @@ python3版本，无数据库，无talib，适合开发不依赖历史数据的�
 
 
 ![](https://github.com/vvipi/py3_demo_on_vnpy_ctp/raw/master/screenshots/screenshot20180308.PNG)
+![](https://wx3.sinaimg.cn/mw690/4a78b4eegy1ftqt77pbl7j23402c0qv6.jpg)
 
